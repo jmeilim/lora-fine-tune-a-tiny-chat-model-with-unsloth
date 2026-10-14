@@ -33,4 +33,3 @@ python scaffold.py
 
 ---
 
-Built on Deep-ML.
